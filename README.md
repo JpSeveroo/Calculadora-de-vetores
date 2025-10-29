@@ -20,7 +20,7 @@ A calculadora é capaz de executar as seguintes operações vetoriais:
 
 - **Python 3**: linguagem principal de desenvolvimento
 - **VS Code**: ambiente de desenvolvimento utilizado
-- Interface em linha de comando (CLI), com menus simples e organizados
+- Interface em Tkinter, basta colocar o código na IDE e dar um RUN
 
 ## 📁 Estrutura do Projeto
 
